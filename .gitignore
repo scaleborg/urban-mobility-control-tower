@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+CLAUDE.md
+analytics/data/
+analytics/dbt/target/
+analytics/dbt/logs/
+analytics/dbt/dbt_packages/
+analytics/dbt/.user.yml
+data/

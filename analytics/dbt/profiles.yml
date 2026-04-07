@@ -1,0 +1,7 @@
+urban_mobility:
+  outputs:
+    dev:
+      type: duckdb
+      path: ../data/mobility.duckdb
+      threads: 4
+  target: dev
